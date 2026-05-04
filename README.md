@@ -53,7 +53,15 @@ The workflow of the project includes:
 
 ## Results
 
-The model demonstrates effective performance in classifying patient outcomes, with balanced evaluation metrics across both classes. Visualizations provide clear insights into prediction behavior and model accuracy.
+The model was evaluated using a classification report and confusion matrix. The results show how well the Naïve Bayes model classified the two outcome classes: survived and died.
+
+The evaluation includes:
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+
+The visualizations help compare the actual outcomes with the predicted outcomes and provide a clearer understanding of the model’s performance.
 
 ## How to Run
 
